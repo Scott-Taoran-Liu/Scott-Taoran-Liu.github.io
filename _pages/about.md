@@ -38,14 +38,32 @@ University of  Groningen, Groningen, Netherlands. <br/>
 
 
 # Fields of  Expertise 
-Infectious diseases modelling and health policy evaluation 
-One Health and real-world outcomes research: Big data and artificial intelligence-based study  
-Health and Pharmacoeconomics: Decision analytic modelling for cost-effectiveness evaluation  
-Discrete choice experiment for behavior and choice assessment  
+### Infectious diseases modelling and health policy evaluation  <br/>
+### One Health and real-world outcomes research: <br/>
+Big data and artificial intelligence-based study  
+### Health and Pharmacoeconomics: <br/> 
+Decision analytic modelling for cost-effectiveness evaluation   <br/>
+### Discrete choice experiment for behavior and choice assessment   <br/>
  
-Education Experience 
-09/2021 – present    PhD student in Public Health 
-Department of  Infectious Diseases and Public Health,  
-Jockey Club College of  Veterinary Medicine and Life Science, 
-City University of  Hong Kong, Hong Kong, China 
-09/2018 – 07/2021   Bachelor of  Science (Economics and Business Economics) 
+# Education Experience 
+### PhD student in Public Health
+09/2021 – present      <br/>
+Department of  Infectious Diseases and Public Health  <br/>
+Jockey Club College of  Veterinary Medicine and Life Science,  <br/>
+City University of  Hong Kong, Hong Kong, China  <br/>
+### Bachelor of  Science (Economics and Business Economics) 
+09/2018 – 07/2021    <br/>
+Faculty of  Economics and Business  <br/>
+University of  Groningen, Groningen, Netherlands <br/>
+
+# Computer Skills 
+Stata, Excel macros, R programming, Python, TreeAge 
+ 
+# Languages 
+Chinese-Mandarin (native), English (fluent), Dutch (basic) 
+ 
+# References 
+### Prof. Dr. Wai-kit Ming (Hong Kong, China) 
+Assistant professor, Department of Infectious Diseases and Public Health, Jockey Club College of Veterinary Medicine and Life Science, City University of  Hong Kong 
+### Dr. Akinwunmi Babatunde (United States) 
+Research Associate, Broad Institute of Harvard and MIT 
