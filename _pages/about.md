@@ -15,22 +15,37 @@ Telephone: +852 62216758
 
 E-mail: taoranliu3-c@my.cityu.edu.hk 
 
-Google Scholar Website: https://scholar.google.com/citations?user=ulJJlMAAAAAJ&hl=en&oi=ao 
+Google Scholar Website: [link](https://scholar.google.com/citations?user=ulJJlMAAAAAJ&hl=en&oi=ao)
 
 
 # Current Affiliation 
-09/2021 – present\ \ \ \ \ PhD student in Public Health, 
+### PhD student in Public Health
+09/2021 – present <br/>
+Department of  Infectious Diseases and Public Health <br/>
+Jockey Club College of  Veterinary Medicine and Life Science <br/>
+City University of  Hong Kong, Hong Kong, China.
+                      
+### Research Assistant in Public Health
+09/2021 – present <br/>
+Department of  Infectious Diseases and Public Health <br/>
+Jockey Club College of  Veterinary Medicine and Life Science <br/>
+City University of  Hong Kong, Hong Kong, China.
 
-\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Department of  Infectious Diseases and Public Health, 
-                      
-                      Jockey Club College of  Veterinary Medicine and Life Science, 
-                      
-                      City University of  Hong Kong, Hong Kong, China 
-                      
-09/2021 – present     Research Assistant in Public Health 
-                      Department of  Infectious Diseases and Public Health,  
-                      Jockey Club College of  Veterinary Medicine and Life Science, 
-                      City University of  Hong Kong, Hong Kong, China 
-09/2018 – 07/2021     Bachelor of  Science (Economics and Business Economics) 
-                      Faculty of  Economics and Business, 
-                      University of  Groningen, Groningen, Netherlands 
+### Bachelor of  Science (Economics and Business Economics)
+09/2018 – 07/2021 <br/>
+Faculty of  Economics and Business <br/>
+University of  Groningen, Groningen, Netherlands. <br/>
+
+
+# Fields of  Expertise 
+Infectious diseases modelling and health policy evaluation 
+One Health and real-world outcomes research: Big data and artificial intelligence-based study  
+Health and Pharmacoeconomics: Decision analytic modelling for cost-effectiveness evaluation  
+Discrete choice experiment for behavior and choice assessment  
+ 
+Education Experience 
+09/2021 – present    PhD student in Public Health 
+Department of  Infectious Diseases and Public Health,  
+Jockey Club College of  Veterinary Medicine and Life Science, 
+City University of  Hong Kong, Hong Kong, China 
+09/2018 – 07/2021   Bachelor of  Science (Economics and Business Economics) 
