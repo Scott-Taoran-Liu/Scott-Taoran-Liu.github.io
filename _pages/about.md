@@ -38,12 +38,11 @@ University of  Groningen, Groningen, Netherlands. <br/>
 
 
 # Fields of  Expertise 
-### Infectious diseases modelling and health policy evaluation  <br/>
-### One Health and real-world outcomes research: <br/>
+**Infectious diseases modelling and health policy evaluation**  <br/>
+**One Health and real-world outcomes research**: <br/>
 Big data and artificial intelligence-based study  
-### Health and Pharmacoeconomics: <br/> 
-Decision analytic modelling for cost-effectiveness evaluation   <br/>
-### Discrete choice experiment for behavior and choice assessment   <br/>
+**Health and Pharmacoeconomics**: <br/> 
+**Decision analytic modelling for cost-effectiveness evaluation**   <br/>
  
 # Education Experience 
 ### PhD student in Public Health
