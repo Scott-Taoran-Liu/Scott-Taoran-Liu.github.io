@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Personal information 
 Address: City University of  Hong Kong, 31 To Yuen Street, Hong Kong SAR, China 
 Telephone: +852 62216758 
