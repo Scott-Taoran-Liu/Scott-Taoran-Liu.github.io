@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Address: City University of  Hong Kong, 31 To Yuen Street, Hong Kong SAR, China 
-
-Telephone: +852 62216758 
-
-E-mail: taoranliu3-c@my.cityu.edu.hk 
-
+Address: City University of  Hong Kong, 31 To Yuen Street, Hong Kong SAR, China  <br/>
+Telephone: +852 62216758  <br/>
+E-mail: taoranliu3-c@my.cityu.edu.hk  <br/>
 Google Scholar Website: [link](https://scholar.google.com/citations?user=ulJJlMAAAAAJ&hl=en&oi=ao)
 
 
