@@ -40,7 +40,7 @@ University of  Groningen, Groningen, Netherlands. <br/>
 
 * **Health and Pharmacoeconomics**: Decision analytic modelling for cost-effectiveness evaluation
 
-* **Decision analytic modelling for cost-effectiveness evaluation**  
+* **Discrete choice experiment for behavior and choice assessment**  
 
  
 ## Education Experience 
@@ -72,9 +72,6 @@ YiXueJie Medical Journal, Shanghai, China
 06/2020 – 09/2021   <br/>
 Main Teaching Assistant Course: Research Methods; Medical Statistics, etc., Jinan University, Guangzhou, China
 
-**Member of Association of Chinese Students and Scholars in Groningen**  <br/>
-03/2019 – 06/2021   <br/>
-Groningen, Netherlands 
  
 ## Peer reviewer activities
 During the past two years, Mr. Liu helps peer-review journals review over 10 manuscripts, including
@@ -101,3 +98,6 @@ Assistant professor, Department of Infectious Diseases and Public Health, Jockey
 
 **Dr. Akinwunmi Babatunde** (United States)    <br/>
 Research Associate, Broad Institute of Harvard and MIT 
+
+
+[![Page Views Count](https://badges.toozhao.com/badges/01G9A43YES7GF8MRQ2K6W0N584/green.svg)](https://badges.toozhao.com/stats/01G9A43YES7GF8MRQ2K6W0N584 "Get your own page views count badge on badges.toozhao.com")
