@@ -19,68 +19,79 @@ Google Scholar Website: [link](https://scholar.google.com/citations?user=ulJJlMA
 
 
 ## Current Affiliation 
-#### PhD student in Public Health
+**PhD student in Public Health** <br/>
 09/2021 – present <br/>
 Department of  Infectious Diseases and Public Health <br/>
 Jockey Club College of  Veterinary Medicine and Life Science <br/>
 City University of  Hong Kong, Hong Kong, China.
                       
-#### Research Assistant in Public Health
+**Research Assistant in Public Health** <br/>
 09/2021 – present <br/>
 Department of  Infectious Diseases and Public Health <br/>
 Jockey Club College of  Veterinary Medicine and Life Science <br/>
 City University of  Hong Kong, Hong Kong, China.
 
-#### Bachelor of  Science (Economics and Business Economics)
+**Bachelor of  Science** (Economics and Business Economics)  <br/>
 09/2018 – 07/2021 <br/>
 Faculty of  Economics and Business <br/>
 University of  Groningen, Groningen, Netherlands. <br/>
 
 
 ## Fields of  Expertise 
-**Infectious diseases modelling and health policy evaluation**  <br/>
-**One Health and real-world outcomes research**: <br/>
-Big data and artificial intelligence-based study  
-**Health and Pharmacoeconomics**: <br/> 
-**Decision analytic modelling for cost-effectiveness evaluation**   <br/>
+* **Infectious diseases modelling and health policy evaluation** 
+
+* **One Health and real-world outcomes research**: Big data and artificial intelligence-based study 
+
+* **Health and Pharmacoeconomics**: Decision analytic modelling for cost-effectiveness evaluation
+
+* **Decision analytic modelling for cost-effectiveness evaluation**  
+
  
 ## Education Experience 
-#### PhD student in Public Health
+**PhD student in Public Health**  <br/>
 09/2021 – present      <br/>
 Department of  Infectious Diseases and Public Health  <br/>
 Jockey Club College of  Veterinary Medicine and Life Science,  <br/>
-City University of  Hong Kong, Hong Kong, China  <br/>
-#### Bachelor of  Science (Economics and Business Economics) 
+City University of  Hong Kong, Hong Kong, China
+
+**Bachelor of  Science** (Economics and Business Economics)   <br/>
 09/2018 – 07/2021    <br/>
 Faculty of  Economics and Business  <br/>
-University of  Groningen, Groningen, Netherlands <br/>
+University of  Groningen, Groningen, Netherlands
 
 ## Work and Teaching Experience
-#### Clinical statistics analysis assistant
-09/2021 – 09/2021   <br/>  <br/>
-Guangzhou Baiyun District Maternity and Child Health Hospital, Guangzhou, China  <br/>
+**Clinical statistics analysis assistant**  <br/>
+09/2021 – 09/2021   <br/>
+Guangzhou Baiyun District Maternity and Child Health Hospital, Guangzhou, China 
 
-#### Research institute internship - Medicine industry research group
+**Research institute internship - Medicine industry research group**  <br/>
 03/2021 – 07/2021   <br/>
-Founder Securities, Shanghai, China  <br/>
-#### Data Analyst and statistics internship
+Founder Securities, Shanghai, China
+
+**Data Analyst and statistics internship**  <br/>
 01/2021 – 03/2021   <br/>
-YiXueJie Medical Journal, Shanghai, China  <br/>
-#### Research Assistant and Teaching Assistant
+YiXueJie Medical Journal, Shanghai, China
+
+**Research Assistant and Teaching Assistant**  <br/>
 06/2020 – 09/2021   <br/>
-Main Teaching Assistant Course: Research Methods; Medical Statistics, etc., Jinan University, Guangzhou, China  <br/>
-#### Member of Association of Chinese Students and Scholars in Groningen
+Main Teaching Assistant Course: Research Methods; Medical Statistics, etc., Jinan University, Guangzhou, China
+
+**Member of Association of Chinese Students and Scholars in Groningen**  <br/>
 03/2019 – 06/2021   <br/>
-Groningen, Netherlands  <br/>
+Groningen, Netherlands 
  
 ## Peer reviewer activities
-During the past two years, Mr. Liu helps peer-review journals review over 10 manuscripts, including   <br/>
- BMJ Opens  <br/>
- Frontiers in Psychology  <br/>
- Frontiers in Public Health  <br/>
- Frontiers in Medicine  <br/>
- Journal of Medical Internet Research  <br/>
- JMIR public health and surveillance.  <br/>
+During the past two years, Mr. Liu helps peer-review journals review over 10 manuscripts, including
+
+* BMJ Opens  <br/>
+* Frontiers in Psychology
+* Frontiers in Public Health
+* Frontiers in Medicine 
+* Journal of Medical Internet Research
+* JMIR public health and surveillance
+
+## Publications
+Liu's Publications can be found at [link](https://scott-taoran-liu.github.io/publications/)
 
 ## Computer Skills 
 Stata, Excel macros, R programming, Python, TreeAge 
@@ -89,7 +100,8 @@ Stata, Excel macros, R programming, Python, TreeAge
 Chinese-Mandarin (native), English (fluent), Dutch (basic) 
  
 ## References 
-### Prof. Dr. Wai-kit Ming (Hong Kong, China) 
+**Prof. Dr. Wai-kit Ming** (Hong Kong, China)    <br/>
 Assistant professor, Department of Infectious Diseases and Public Health, Jockey Club College of Veterinary Medicine and Life Science, City University of  Hong Kong 
-### Dr. Akinwunmi Babatunde (United States) 
+
+**Dr. Akinwunmi Babatunde** (United States)    <br/>
 Research Associate, Broad Institute of Harvard and MIT 
