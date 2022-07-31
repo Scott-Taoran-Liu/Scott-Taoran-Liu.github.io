@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Biography of Scott Taoran Liu"
 excerpt: ""
 author_profile: true
 redirect_from: 
